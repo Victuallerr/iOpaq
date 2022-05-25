@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iOpaq
+- 👀 I’m interested in progamming discord bots.
+- 🌱 I’m currently learning javascript.
