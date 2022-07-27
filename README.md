@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @iOpaq
+- 👋 Hi, I’m @Victualler
 - 👀 I’m interested in progamming discord bots.
 - 🌱 I’m currently learning javascript.
